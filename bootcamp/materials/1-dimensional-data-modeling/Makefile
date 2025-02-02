@@ -1,4 +1,4 @@
-include example.env
+include .env
 
 .PHONY: up
 up:
